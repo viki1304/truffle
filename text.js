@@ -1,0 +1,3 @@
+export TWILIO_API_KEY_SID="asdkj8a9787ds6868a76s87d6"
+export TWILIO_API_KEY_SECRET="kaljsjd98787a6s8d6876"
+export TWILIO_ACCOUNT_SID="asjdoijas89u798as7d8798asd"
